@@ -79,7 +79,7 @@ class Main
     ];
 
     static var gitlibs:Array<Gitlib> = [
-        { name: 'flixel-brainy', url: 'https://github.com/Brainy0789/flixel-brainy', ref: 'main' },
+        { name: 'g-flixel', url: 'https://github.com/gteamfnf/g-flixel', ref: 'main' },
         { name: 'gscript', url: 'https://github.com/gteamfnf/GScript', ref: 'master'}
     ];
 
