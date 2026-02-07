@@ -1,3 +1,3 @@
 --class-path haxelib-installer
---interp
+--neko run.n
 --main Main
